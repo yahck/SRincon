@@ -1,0 +1,197 @@
+/*=======================================================================
+
+	❤❤❤ Gumby by Digital Surgeons. ❤❤❤
+	
+	*** This is where you should keep all of your TEXT styles ***
+
+~Designed and Developed by Hasan Ali
+ 
+ ========================================================================*/
+ 
+ 	  @media screen and (max-width: 600px) {
+
+header{
+position:static;
+height:auto;
+}
+
+.fixedhead{
+position:static;
+}
+.nav{
+height:auto;
+background:transparent;
+border:0px;
+box-shadow:none;
+}
+
+h4.icon{
+color:#4ECDC4 !important;
+padding-left:0px;
+padding-right:10px;
+}
+
+.icon-chevron-right{
+padding-left:20px !important;
+}
+
+.icon-chevron-left{
+padding-right:20px !important;
+}
+
+.right{
+text-align:center !important;
+float:center !important;
+}
+
+.left{
+text-align:center !important;
+}
+
+.slideshow{
+height:auto;
+}
+ 
+.greyhorizontal{
+margin-bottom:10px;
+}
+
+.submit{
+width:100% !important;
+}
+
+.item{
+margin-bottom:20px;
+} 
+
+.largepadding, .largemargin{
+padding:20px 0px !important;
+}
+
+.bigpadding, .bigmargin{
+padding:15px 0px !important;
+}
+
+.bigtoppadding, .bigbottompadding{
+padding-top:15px !important;
+}
+
+.largetoppadding, .largebottompadding{
+padding-top:20px !important;
+}
+
+
+
+.blackhorizontal, .whitehorizontal{
+width:70% !important;
+margin-left:auto !important;
+margin-right:auto !important;
+}
+
+.team{
+margin-bottom:20px;
+}
+
+.blackvertical, .whitevertical, .greyvertical{
+border-right:0px;
+padding-right:0px;
+}
+
+.gridblock{
+width:100%;
+}
+
+.griditem{
+margin-bottom:0px !important;
+overflow:hidden;
+}
+
+.hidden{
+overflow:visible;
+ }
+ 
+ footer.fixed {
+position:static;
+}
+ 
+.submit{
+padding:20px 40px !important;
+}
+
+.logo{
+margin-left:auto;
+margin-right:auto;
+}
+form .row{
+width:90%;
+margin-left:auto;
+margin-right:auto;
+}
+
+.sidebar{
+margin-bottom:50px;
+padding:0px;
+}
+
+.leftpadding, .rightpadding{
+padding-left:0px;
+padding-right:0px;
+}
+
+.top .subchild{
+display:block;
+border:0;
+}
+
+h4.pencil {
+background: url(../img/pencil.png) no-repeat bottom center;
+ }
+
+.contact h5 {
+padding-left: 0px;
+}
+
+.grey form label {
+padding-right: 0px;
+}
+
+.griditem{
+margin-bottom:25px !important;
+}
+
+
+
+ }
+ 
+
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ /* ==|== media queries ======================================================
+    PLACEHOLDER Media Queries for Responsive Design.
+    These override the primary ('mobile first') styles
+    Modify as content requires.
+    ========================================================================== */
+ 
+ @media only screen and (min-width: 480px) {
+   /* Style adjustments for viewports 480px and over go here */
+ 
+ }
+ 
+ @media only screen and (min-width: 768px) {
+   /* Style adjustments for viewports 768px and over go here */
+ 
+ }
